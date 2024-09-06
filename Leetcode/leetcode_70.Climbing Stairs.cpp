@@ -1,18 +1,50 @@
 #include <bits/stdc++.h>
 using namespace std;
+/*
+Uing simple recursion and backtracking
+
+int comb(int n, int &count, int sum){
+    if (sum == n || sum>n)
+    {
+        count++;
+        return count;
+    }
+    comb(n, count, sum+1);
+    comb(n, count, sum+2);
+
+    return count;
+}
+
 
 int climbStairs(int n)
 {
-    if (n==0 || n == 1)
+    int count = 0;
+    return comb(n, count, 0);
+}
+*/
+
+
+
+// Using recurision, backtracking and memiozation
+int DP(int n, vector<int> &dp)
+{
+    if (n <= 2)
     {
-        return 1;
+        dp[n] = n;
+        return n;
     }
-    if (n==2)
+
+    if (dp[n] != -1)
     {
-        return 2;
+        return dp[n];
     }
-    
-    return climbStairs(n - 1) + climbStairs(n - 2);
+    dp[n] = DP(n - 1, dp) + DP(n - 2, dp);
+    return dp[n];
+}
+int climbStairs(int n)
+{
+    vector<int> dp(n + 1, -1);
+    return DP(n, dp);
 }
 
 int main()
