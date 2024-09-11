@@ -1,22 +1,20 @@
 class Solution {
 public:
-    int sol(vector<vector<int>>& triangle, int i, int j, int n,
-            vector<vector<int>>& dp) {
-        if (i == n - 1) {
-            return triangle[i][j];
-        }
-        if (dp[i][j] != -1) {
-            return dp[i][j];
+    // using tabulation method
+    int minimumTotal(vector<vector<int>>& triangle) {
+        int n = triangle.size();
+        vector<vector<int>> dp(n, vector<int>(n, -1));
+        for (auto j = 0; j < triangle.size(); j++) {
+            dp[n - 1][j] = triangle[n - 1][j];
         }
 
-        int down = triangle[i][j] + sol(triangle, i + 1, j, n, dp);
-        int diag = triangle[i][j] + sol(triangle, i + 1, j + 1, n, dp);
-        return dp[i][j] = min(down, diag);
-    }
-    // Using memoization
-    int minimumTotal(vector<vector<int>>& triangle) {
-        vector<vector<int>> dp(triangle.size(),
-                               vector<int>(triangle.size(), -1));
-        return sol(triangle, 0, 0, triangle.size(), dp);
+        for (auto i = n - 2; i >= 0; i--) {
+            for (auto j = i; j >= 0; j--) {
+                int down = triangle[i][j] + dp[i + 1][j];
+                int diag = triangle[i][j] + dp[i + 1][j + 1];
+                dp[i][j] = min(down, diag);
+            }
+        }
+        return dp[0][0];
     }
 };
