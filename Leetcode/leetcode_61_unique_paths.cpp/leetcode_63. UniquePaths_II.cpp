@@ -3,7 +3,7 @@ using namespace std;
 
 
 // This is the advance version of the unique paths problem
-// I've solve is using Tabulation process to optimize the recurrance
+// I've solve it using Tabulation process to optimize the recurrance
 int uniquePathsWithObstacles(vector<vector<int>> &obstacleGrid)
 {
     int m = obstacleGrid.size();
