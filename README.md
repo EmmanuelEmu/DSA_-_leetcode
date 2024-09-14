@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1086-divisor-game) |
 ## Recursion
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0724-find-pivot-index) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
