@@ -15,7 +15,7 @@ public:
         int slow = n;
         int fast = nextGen(n);
 
-        while (fast != 1 && slow != fast) {
+        while (slow != fast) {
             slow = nextGen(slow);
             fast = nextGen(nextGen(fast));
         }
