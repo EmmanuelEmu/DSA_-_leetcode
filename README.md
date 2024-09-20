@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0016-3sum-closest) |
 | [0045-jump-game-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0055-jump-game) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0016-3sum-closest) |
 | [0189-rotate-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0283-move-zeroes) |
@@ -105,5 +107,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
