@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0392-is-subsequence) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0561-array-partition) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
