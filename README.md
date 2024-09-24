@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0016-3sum-closest) |
 | [0045-jump-game-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0075-sort-colors) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0174-dungeon-game) |
 | [0967-minimum-falling-path-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0054-spiral-matrix) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
