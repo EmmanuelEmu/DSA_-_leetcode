@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0283-move-zeroes) |
 | [0403-frog-jump](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0275-h-index-ii) |
 | [0493-reverse-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
