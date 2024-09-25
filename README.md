@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1086-divisor-game) |
+| [1610-xor-operation-in-an-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0268-missing-number) |
+| [1610-xor-operation-in-an-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
