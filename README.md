@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0137-single-number-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0189-rotate-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0089-gray-code) |
+| [0137-single-number-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0268-missing-number) |
