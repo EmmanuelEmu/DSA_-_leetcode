@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0371-sum-of-two-integers) |
 | [0477-total-hamming-distance](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0477-total-hamming-distance) |
 | [0507-perfect-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0507-perfect-number) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0275-h-index-ii) |
+| [0367-valid-perfect-square](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
