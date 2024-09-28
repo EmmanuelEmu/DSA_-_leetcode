@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0174-dungeon-game) |
+| [0264-ugly-number-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0403-frog-jump) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0367-valid-perfect-square) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0264-ugly-number-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0264-ugly-number-ii) |
 | [0506-relative-ranks](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0506-relative-ranks) |
 ## Quickselect
 |  |
