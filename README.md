@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0392-is-subsequence) |
 ## Math
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0645-set-mismatch) |
