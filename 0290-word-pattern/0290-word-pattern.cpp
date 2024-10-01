@@ -46,14 +46,6 @@ public:
             return false;
         }
 
-        // Rebuild the string from the pattern and the map
-        string generated = "";
-        for (auto it : pattern) {
-            generated += mp[it] + " ";
-        }
-
-        removeTrailingSpaces(generated);
-
-        return generated == s;
+        return true;
     }
 };
