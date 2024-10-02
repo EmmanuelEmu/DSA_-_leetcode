@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0412-fizz-buzz) |
 ## Math
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0412-fizz-buzz) |
 | [0477-total-hamming-distance](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0477-total-hamming-distance) |
 | [0507-perfect-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0507-perfect-number) |
 | [0593-valid-square](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0593-valid-square) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0412-fizz-buzz) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
