@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1086-divisor-game) |
+| [1250-longest-common-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1250-longest-common-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0415-add-strings) |
+| [1250-longest-common-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1250-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
