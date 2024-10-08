@@ -21,6 +21,7 @@ bool isSafe(int row, int col, vector<string> board, int n){
     int tempRow = row;
     int tempCol = col;
 
+    // upper diagonal
     while (tempRow >=0 && tempCol >=0)
     {
         if (board[tempRow][tempCol] == 'Q')
@@ -33,6 +34,8 @@ bool isSafe(int row, int col, vector<string> board, int n){
 
     tempRow = row;
     tempCol = col;
+
+    // row checking
     while (tempCol >=0)
     {
         if (board[tempRow][tempCol] == 'Q')
@@ -45,6 +48,7 @@ bool isSafe(int row, int col, vector<string> board, int n){
 
     tempRow = row;
     tempCol = col;
+    // lower diagonal
     while (tempRow <n && tempCol >=0)
     {
         if (board[tempRow][tempCol] == 'Q')
