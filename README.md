@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0132-palindrome-partitioning-ii) |
