@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0392-is-subsequence) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1013-fibonacci-number) |
 ## Brainteaser
 |  |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -381,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0593-valid-square) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
