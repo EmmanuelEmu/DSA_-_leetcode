@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0056-merge-intervals) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0131-palindrome-partitioning) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0202-happy-number) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
