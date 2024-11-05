@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Math
 |  |
 | ------- |
