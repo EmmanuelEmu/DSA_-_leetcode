@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1129-longest-string-chain) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1656-count-good-triplets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0645-set-mismatch) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2478-longest-nice-subarray) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0645-set-mismatch) |
 | [1129-longest-string-chain](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1129-longest-string-chain) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3291-find-if-array-can-be-sorted](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Divide and Conquer
 |  |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0561-array-partition) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## Simulation
 |  |
