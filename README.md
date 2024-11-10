@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2478-longest-nice-subarray) |
 | [2682-count-increasing-quadruplets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2682-count-increasing-quadruplets) |
 | [3291-find-if-array-can-be-sorted](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Dynamic Programming
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2478-longest-nice-subarray](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2478-longest-nice-subarray) |
 | [3291-find-if-array-can-be-sorted](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3394-minimum-array-end) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2478-longest-nice-subarray](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2478-longest-nice-subarray) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Counting Sort
 |  |
 | ------- |
