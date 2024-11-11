@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2478-longest-nice-subarray](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2478-longest-nice-subarray) |
 | [2682-count-increasing-quadruplets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2682-count-increasing-quadruplets) |
+| [2716-prime-subtraction-operation](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3291-find-if-array-can-be-sorted](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2716-prime-subtraction-operation](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Two Pointers
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1086-divisor-game) |
 | [1610-xor-operation-in-an-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2050-count-good-numbers](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2050-count-good-numbers) |
+| [2716-prime-subtraction-operation](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0611-valid-triangle-number) |
+| [2716-prime-subtraction-operation](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0258-add-digits) |
+| [2716-prime-subtraction-operation](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Breadth-First Search
 |  |
