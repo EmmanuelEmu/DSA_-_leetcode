@@ -459,4 +459,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0577-employee-bonus) |
+| [1908-recyclable-and-low-fat-products](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
