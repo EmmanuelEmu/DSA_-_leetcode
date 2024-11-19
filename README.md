@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0075-sort-colors) |
