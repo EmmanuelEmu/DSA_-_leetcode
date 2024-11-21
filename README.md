@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0967-minimum-falling-path-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1041-available-captures-for-rook](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1041-available-captures-for-rook) |
 | [1129-longest-string-chain](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1129-longest-string-chain) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0174-dungeon-game) |
 | [0304-range-sum-query-2d-immutable](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0967-minimum-falling-path-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1041-available-captures-for-rook](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1041-available-captures-for-rook) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Greedy
 |  |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0415-add-strings) |
+| [1041-available-captures-for-rook](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1041-available-captures-for-rook) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
