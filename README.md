@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2478-longest-nice-subarray](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0174-dungeon-game) |
 | [0304-range-sum-query-2d-immutable](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0967-minimum-falling-path-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0415-add-strings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Union Find
 |  |
