@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1041-available-captures-for-rook](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1041-available-captures-for-rook) |
 | [1129-longest-string-chain](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1129-longest-string-chain) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1656-count-good-triplets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1656-count-good-triplets) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0967-minimum-falling-path-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1041-available-captures-for-rook](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1041-available-captures-for-rook) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Greedy
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0645-set-mismatch) |
 | [1129-longest-string-chain](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1129-longest-string-chain) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2122-count-special-quadruplets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2122-count-special-quadruplets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
