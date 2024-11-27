@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Dynamic Programming
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0322-coin-change) |
 | [0787-sliding-puzzle](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0787-sliding-puzzle) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Geometry
 |  |
 | ------- |
@@ -541,4 +543,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
