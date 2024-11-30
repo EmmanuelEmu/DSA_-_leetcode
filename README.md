@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0217-contains-duplicate) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0787-sliding-puzzle](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0787-sliding-puzzle) |
 | [0967-minimum-falling-path-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Indexed Tree
 |  |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0547-number-of-provinces) |
@@ -566,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0547-number-of-provinces) |
 | [2201-valid-arrangement-of-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 ## Eulerian Circuit
