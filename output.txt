@@ -1,1 +1,7 @@
-13
+1
+The linked list is: 1 2 3 4 5 
+
+The length of the linked list is: 5
+The linked list after deleting the head is: 2 3 4 5 
+The length of the linked list is: 4
+The linked list after deleting the tail is: 2 3 4 

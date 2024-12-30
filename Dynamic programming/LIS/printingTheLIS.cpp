@@ -1,11 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-vector<int> largestDivisibleSubset(vector<int> &nums)
+vector<int> longestIncreasingSubsequence(int n, vector<int> &arr)
 {
     // Code here
-    int n = nums.size();
-    sort(nums.begin(), nums.end());
     vector<int> dp(n, 1);
     int maxi = 1;
     int hash[n];
@@ -15,7 +13,7 @@ vector<int> largestDivisibleSubset(vector<int> &nums)
         hash[i] = i;
         for (auto j = 0; j < i; j++)
         {
-            if (nums[i] % nums[j] == 0 && dp[i] < 1 + dp[j])
+            if (arr[i] > arr[j] && dp[i] < 1 + dp[j])
             {
                 dp[i] = 1 + dp[j];
                 hash[i] = j;
@@ -29,32 +27,28 @@ vector<int> largestDivisibleSubset(vector<int> &nums)
     }
 
     vector<int> temp;
-    temp.push_back(nums[lastIndex]);
+    temp.push_back(arr[lastIndex]);
     while (hash[lastIndex] != lastIndex)
     {
         lastIndex = hash[lastIndex];
-        temp.push_back(nums[lastIndex]);
+        temp.push_back(arr[lastIndex]);
     }
     reverse(temp.begin(), temp.end());
     return temp;
 }
 
 int main()
-{
+{   
     int n;
-    cin >> n;
-    vector<int> nums;
-    while (n--)
-    {
-        int a;
-        cin >> a;
-        nums.push_back(a);
+    cin>>n;
+    vector<int> arr(n);
+    for(auto i=0; i<n; i++){
+        cin>>arr[i];
     }
-    vector<int> res = largestDivisibleSubset(nums);
-    for (auto it : res)
-    {
-        cout << it << " ";
+    vector<int> res = longestIncreasingSubsequence(n, arr);
+    for(auto i=0; i<res.size(); i++){
+        cout<<res[i]<<" ";
     }
-    cout << endl;
+    cout<<endl;
     return 0;
 }
