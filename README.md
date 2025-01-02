@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2682-count-increasing-quadruplets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2682-count-increasing-quadruplets) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Math
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1940-maximum-xor-for-each-query](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2682-count-increasing-quadruplets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2682-count-increasing-quadruplets) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Hash Table
 |  |
