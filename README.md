@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2465-shifting-letters-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2465-shifting-letters-ii) |
 | [2478-longest-nice-subarray](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2465-shifting-letters-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2465-shifting-letters-ii) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2001-jump-game-vii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2001-jump-game-vii) |
 | [2358-number-of-ways-to-split-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2465-shifting-letters-ii) |
 | [2682-count-increasing-quadruplets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2682-count-increasing-quadruplets) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
