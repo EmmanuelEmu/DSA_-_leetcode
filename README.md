@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2001-jump-game-vii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2001-jump-game-vii) |
 | [2232-adding-spaces-to-a-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2001-jump-game-vii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2001-jump-game-vii) |
 | [2358-number-of-ways-to-split-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2358-number-of-ways-to-split-array) |
