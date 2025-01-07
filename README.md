@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0060-permutation-sequence) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0060-permutation-sequence) |
@@ -662,4 +664,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
