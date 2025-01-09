@@ -10,32 +10,21 @@
  */
 class Solution {
 public:
+    // optimized code without using the external array
     ListNode* oddEvenList(ListNode* head) {
         if (head == NULL) {
             return NULL;
         }
-        vector<int> oddEven;
         ListNode* odd = head;
-        while (odd != NULL) {
-            oddEven.push_back(odd->val);
-            if (odd->next == NULL)
-                break;
-            odd = odd->next->next;
-        }
         ListNode* even = head->next;
-        while (even != NULL) {
-            oddEven.push_back(even->val);
-            if (even->next == NULL)
-                break;
-            even = even->next->next;
+        ListNode* evenHead = even;
+        while (even != NULL && even->next != NULL) {
+            odd->next = odd->next->next;
+            even->next = even->next->next;
+            odd = odd->next;
+            even = even->next;
         }
-        ListNode* temp = head;
-        int i = 0;
-        while (temp != NULL) {
-            temp->val = oddEven[i];
-            i++;
-            temp = temp->next;
-        }
+        odd->next = evenHead;
         return head;
     }
 };
