@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0283-move-zeroes) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0242-valid-anagram) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0493-reverse-pairs) |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -672,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0002-add-two-numbers) |
+| [0148-sort-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0328-odd-even-linked-list) |
 ## Rolling Hash
 |  |
