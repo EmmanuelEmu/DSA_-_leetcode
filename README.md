@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3291-find-if-array-can-be-sorted](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Binary Search
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2478-longest-nice-subarray](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2478-longest-nice-subarray) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3394-minimum-array-end) |
