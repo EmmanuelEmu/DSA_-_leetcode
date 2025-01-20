@@ -644,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0584-find-customer-referee) |
 | [0596-classes-more-than-5-students](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0619-biggest-single-number) |
+| [0626-exchange-seats](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1161-project-employees-i) |
