@@ -659,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-find-followers-count](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2087-confirmation-rate) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Stack
 |  |
 | ------- |
