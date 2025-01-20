@@ -643,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0584-find-customer-referee) |
 | [0596-classes-more-than-5-students](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0596-classes-more-than-5-students) |
+| [0619-biggest-single-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0619-biggest-single-number) |
 | [1153-product-sales-analysis-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1161-project-employees-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1292-immediate-food-delivery-ii) |
