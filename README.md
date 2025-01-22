@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1755-defuse-the-bomb) |
+| [1876-map-of-highest-peak](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1041-available-captures-for-rook) |
 | [1073-number-of-enclaves](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1876-map-of-highest-peak](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2145-grid-game) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1073-number-of-enclaves) |
+| [1876-map-of-highest-peak](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
