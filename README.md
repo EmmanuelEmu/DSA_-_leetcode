@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1755-defuse-the-bomb) |
+| [1813-maximum-erasure-value](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1813-maximum-erasure-value](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2122-count-special-quadruplets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2122-count-special-quadruplets) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1755-defuse-the-bomb) |
+| [1813-maximum-erasure-value](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1813-maximum-erasure-value) |
 | [2001-jump-game-vii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2001-jump-game-vii) |
 | [2478-longest-nice-subarray](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
