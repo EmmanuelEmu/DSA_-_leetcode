@@ -1,18 +1,26 @@
 class Solution {
 public:
+    // optimal solution using virtual indexing, quickselect and dutch national flag
     void wiggleSort(vector<int>& nums) {
         int n = nums.size();
-        vector<int> sortedNums = nums;
-        sort(sortedNums.begin(), sortedNums.end());
-        int lastIndex = n - 1;
-        for (auto i = 1; i < n; i += 2) {
-            nums[i] = sortedNums[lastIndex--];
-        }
-        for (auto i = 0; i < n; i += 2) {
-            nums[i] = sortedNums[lastIndex--];
-        }
-        for (auto it : nums) {
-            cout << it << " ";
+
+        // Step 1: Find the median
+        auto midPtr = nums.begin() + n / 2;
+        nth_element(nums.begin(), midPtr, nums.end());
+        int median = *midPtr;
+
+        // Step 2: 3-way partition with virtual indexing
+        auto A = [&](int i) -> int& { return nums[(1 + 2 * i) % (n | 1)]; };
+
+        int i = 0, j = 0, k = n - 1;
+        while (j <= k) {
+            if (A(j) > median) {
+                swap(A(i++), A(j++));
+            } else if (A(j) < median) {
+                swap(A(j), A(k--));
+            } else {
+                j++;
+            }
         }
     }
 };
