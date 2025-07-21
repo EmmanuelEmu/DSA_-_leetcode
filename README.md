@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0202-happy-number) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0908-middle-of-the-linked-list) |
