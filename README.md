@@ -670,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -774,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1073-number-of-enclaves) |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Tree
@@ -852,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
