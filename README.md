@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0204-count-primes) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -859,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -882,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0783-search-in-a-binary-search-tree) |
