@@ -16,26 +16,10 @@ public:
         if (!root)
             return 0;
 
-        queue<TreeNode*> q;
-        q.push(root);
         int sum = 0;
+        if (root->left && !root->left->left && !root->left->right)
+            sum += root->left->val;
 
-        while (!q.empty()) {
-            TreeNode* node = q.front();
-            q.pop();
-
-            if (node->left) {
-                if (!node->left->left && !node->left->right) {
-                    sum += node->left->val;
-                }
-                q.push(node->left);
-            }
-
-            if (node->right) {
-                q.push(node->right);
-            }
-        }
-
-        return sum;
+        return sum + sumOfLeftLeaves(root->left) + sumOfLeftLeaves(root->right);
     }
 };
