@@ -2,17 +2,16 @@ class Solution {
 public:
     int unequalTriplets(vector<int>& nums) {
         int n = nums.size();
-        int count = 0;
+        int trips = 0;
+        int pairs = 0;
+
+        map<int, int> freq;
         for (int i = 0; i < n; ++i) {
-            for (int j = i + 1; j < n; ++j) {
-                for (int k = j + 1; k < n; ++k) {
-                    if (nums[i] != nums[j] && nums[j] != nums[k] &&
-                        nums[i] != nums[k]) {
-                        count++;
-                    }
-                }
-            }
+            trips += pairs - freq[nums[i]] * (i - freq[nums[i]]);
+            pairs += i - freq[nums[i]];
+            freq[nums[i]]++;
         }
-        return count;
+
+        return trips;
     }
 };
