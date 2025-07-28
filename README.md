@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0143-reorder-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0202-happy-number) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2050-count-good-numbers) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0321-create-maximum-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0321-create-maximum-number) |
@@ -844,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0143-reorder-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0908-middle-of-the-linked-list) |
