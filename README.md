@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0645-set-mismatch) |
 | [0952-word-subsets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0952-word-subsets) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
