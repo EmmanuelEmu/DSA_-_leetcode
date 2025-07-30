@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0321-create-maximum-number) |
 | [0392-is-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0443-string-compression) |
+| [0556-next-greater-element-iii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0658-find-k-closest-elements) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0415-add-strings) |
 | [0477-total-hamming-distance](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0477-total-hamming-distance) |
 | [0507-perfect-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0507-perfect-number) |
+| [0556-next-greater-element-iii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0556-next-greater-element-iii) |
 | [0593-valid-square](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0593-valid-square) |
 | [1013-fibonacci-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1086-divisor-game) |
