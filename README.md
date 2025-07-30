@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0049-group-anagrams) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0055-jump-game) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -789,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0042-trapping-rain-water) |
 | [0321-create-maximum-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0503-next-greater-element-ii) |
