@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0645-set-mismatch) |
 | [0952-word-subsets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0952-word-subsets) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1129-longest-string-chain) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1364-tuple-with-same-product](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1364-tuple-with-same-product) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0658-find-k-closest-elements) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1129-longest-string-chain) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -848,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0832-binary-tree-pruning](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0832-binary-tree-pruning) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -919,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0832-binary-tree-pruning) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -949,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0832-binary-tree-pruning) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
