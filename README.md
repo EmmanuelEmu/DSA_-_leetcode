@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0807-custom-sort-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0807-custom-sort-string) |
 | [0952-word-subsets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0952-word-subsets) |
 | [1129-longest-string-chain](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0645-set-mismatch) |
+| [0807-custom-sort-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0807-custom-sort-string) |
 | [0952-word-subsets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0952-word-subsets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1129-longest-string-chain) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0658-find-k-closest-elements) |
+| [0807-custom-sort-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0807-custom-sort-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1129-longest-string-chain) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
