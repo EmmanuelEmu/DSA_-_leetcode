@@ -1,19 +1,50 @@
 class MyHashSet {
-    map<int, int> mp;
+    struct ListNode {
+        int val;
+        ListNode* next;
+        ListNode(int x) : val(x), next(nullptr) {}
+    };
+
+    ListNode* head;
+
 public:
-    MyHashSet() {}
+    MyHashSet() { head = nullptr; }
 
-    void add(int key) { mp[key] = 1; }
+    void add(int key) {
+        if (contains(key))
+            return; // Avoid duplicates
 
-    void remove(int key) { mp.erase(key); }
+        ListNode* newNode = new ListNode(key);
+        newNode->next = head;
+        head = newNode;
+    }
 
-    bool contains(int key) { return mp.find(key) != mp.end() ? true : false; }
+    void remove(int key) {
+        ListNode* curr = head;
+        ListNode* prev = nullptr;
+
+        while (curr != nullptr) {
+            if (curr->val == key) {
+                if (prev == nullptr) {
+                    head = curr->next;
+                } else {
+                    prev->next = curr->next;
+                }
+                delete curr;
+                return;
+            }
+            prev = curr;
+            curr = curr->next;
+        }
+    }
+
+    bool contains(int key) {
+        ListNode* curr = head;
+        while (curr != nullptr) {
+            if (curr->val == key)
+                return true;
+            curr = curr->next;
+        }
+        return false;
+    }
 };
-
-/**
- * Your MyHashSet object will be instantiated and called as such:
- * MyHashSet* obj = new MyHashSet();
- * obj->add(key);
- * obj->remove(key);
- * bool param_3 = obj->contains(key);
- */
