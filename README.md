@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-append-k-integers-with-minimal-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -802,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0503-next-greater-element-ii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -891,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0328-odd-even-linked-list) |
 | [0816-design-hashset](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Rolling Hash
 |  |
