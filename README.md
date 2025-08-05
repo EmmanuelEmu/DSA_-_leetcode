@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0807-custom-sort-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0807-custom-sort-string) |
 | [0952-word-subsets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0952-word-subsets) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1129-longest-string-chain](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1250-longest-common-subsequence) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0494-target-sum) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Enumeration
 |  |
@@ -887,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0832-binary-tree-pruning](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0832-binary-tree-pruning) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1073-number-of-enclaves](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -965,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0832-binary-tree-pruning) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Binary Tree
 |  |
 | ------- |
@@ -998,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0832-binary-tree-pruning) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Binary Search Tree
 |  |
 | ------- |
