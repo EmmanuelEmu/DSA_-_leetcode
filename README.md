@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0392-is-subsequence) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0494-target-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Enumeration
@@ -874,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0437-path-sum-iii) |
@@ -953,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -985,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0543-diameter-of-binary-tree) |
