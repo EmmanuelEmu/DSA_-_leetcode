@@ -12,40 +12,19 @@
  */
 class Solution {
 public:
-    bool isPresent(vector<int> v, int target) {
-        int start = 0;
-        int end = v.size() - 1;
-        while (start < end) {
-            if (v[start] + v[end] == target) {
-                return true;
-            } else if (v[start] + v[end] > target) {
-                end--;
-            } else {
-                start++;
-            }
+    bool solve(TreeNode* root, int k, unordered_set<int>& s) {
+        if (root == NULL) {
+            return false;
         }
-        return false;
+        if (s.find(k - root->val) != s.end()) {
+            return true;
+        }
+        s.insert(root->val);
+        return solve(root->left, k, s) || solve(root->right, k, s);
     }
 
     bool findTarget(TreeNode* root, int k) {
-        queue<TreeNode*> q;
-        vector<int> v;
-        q.push(root);
-        while (!q.empty()) {
-            int size = q.size();
-            for (int i = 0; i < size; i++) {
-                TreeNode* temp = q.front();
-                q.pop();
-                v.push_back(temp->val);
-                if (temp->left) {
-                    q.push(temp->left);
-                }
-                if (temp->right) {
-                    q.push(temp->right);
-                }
-            }
-        }
-        sort(v.begin(), v.end());
-        return isPresent(v, k);
+        unordered_set<int> s;
+        return solve(root, k, s);
     }
 };
