@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1036-rotting-oranges) |
 | [1041-available-captures-for-rook](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1041-available-captures-for-rook) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1072-next-greater-node-in-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1073-number-of-enclaves](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1073-number-of-enclaves) |
 | [1129-longest-string-chain](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1129-longest-string-chain) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -880,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1072-next-greater-node-in-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -896,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1072-next-greater-node-in-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2227-sum-of-subarray-ranges](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Queue
@@ -998,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
