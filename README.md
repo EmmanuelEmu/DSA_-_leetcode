@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0419-battleships-in-a-board) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0456-132-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0456-132-pattern) |
 | [0477-total-hamming-distance](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0477-total-hamming-distance) |
 | [0493-reverse-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0494-target-sum) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0611-valid-triangle-number) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0493-reverse-pairs) |
 ## Design
 |  |
@@ -870,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0155-min-stack) |
 | [0321-create-maximum-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0735-asteroid-collision) |
@@ -886,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0943-sum-of-subarray-minimums) |
