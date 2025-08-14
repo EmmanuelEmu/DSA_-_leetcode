@@ -708,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1021,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
