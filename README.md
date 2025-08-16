@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0787-sliding-puzzle) |
 | [0816-design-hashset](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0816-design-hashset) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0926-find-and-replace-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0943-sum-of-subarray-minimums](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0807-custom-sort-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0807-custom-sort-string) |
+| [0926-find-and-replace-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0952-word-subsets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0952-word-subsets) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1129-longest-string-chain](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1129-longest-string-chain) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0807-custom-sort-string) |
 | [0816-design-hashset](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0816-design-hashset) |
 | [0900-reordered-power-of-2](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0900-reordered-power-of-2) |
+| [0926-find-and-replace-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0952-word-subsets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0952-word-subsets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1129-longest-string-chain) |
