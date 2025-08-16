@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0290-word-pattern) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0242-valid-anagram) |
