@@ -1013,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0832-binary-tree-pruning](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0832-binary-tree-pruning) |
+| [0975-range-sum-of-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1073-number-of-enclaves](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1073-number-of-enclaves) |
@@ -1118,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0832-binary-tree-pruning) |
+| [0975-range-sum-of-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1484-linked-list-in-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -1167,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0832-binary-tree-pruning) |
+| [0975-range-sum-of-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1484-linked-list-in-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -1184,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0975-range-sum-of-bst) |
 ## Interactive
 |  |
 | ------- |
