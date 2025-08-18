@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0807-custom-sort-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0807-custom-sort-string) |
+| [0886-score-of-parentheses](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0886-score-of-parentheses) |
 | [0926-find-and-replace-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0952-word-subsets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0952-word-subsets) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -918,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0735-asteroid-collision) |
+| [0886-score-of-parentheses](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0886-score-of-parentheses) |
 | [0943-sum-of-subarray-minimums](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
