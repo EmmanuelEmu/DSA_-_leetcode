@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0371-sum-of-two-integers) |
+| [0400-nth-digit](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0415-add-strings) |
 | [0477-total-hamming-distance](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0477-total-hamming-distance) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0400-nth-digit](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0493-reverse-pairs) |
