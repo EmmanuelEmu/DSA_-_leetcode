@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2682-count-increasing-quadruplets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2682-count-increasing-quadruplets) |
 | [2685-first-completely-painted-row-or-column](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2001-jump-game-vii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2001-jump-game-vii) |
 | [2682-count-increasing-quadruplets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2682-count-increasing-quadruplets) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Matrix
 |  |
 | ------- |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2050-count-good-numbers) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2716-prime-subtraction-operation](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -643,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3291-find-if-array-can-be-sorted](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -780,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0494-target-sum) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Enumeration
 |  |
 | ------- |
@@ -1207,4 +1213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Combinatorics
+|  |
+| ------- |
+| [2696-the-number-of-beautiful-subsets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 <!---LeetCode Topics End-->
