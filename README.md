@@ -907,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1452-restaurant-growth](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1523-capital-gainloss](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1523-capital-gainloss) |
 | [1541-top-travellers](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1541-top-travellers) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
