@@ -919,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1942-primary-department-for-each-employee) |
+| [2057-count-salary-categories](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2087-confirmation-rate) |
 | [2110-employees-with-missing-information](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
