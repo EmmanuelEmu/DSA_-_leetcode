@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2050-count-good-numbers](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2050-count-good-numbers) |
+| [2238-a-number-after-a-double-reversal](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
