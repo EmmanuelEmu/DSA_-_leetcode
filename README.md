@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -753,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Union Find
 |  |
 | ------- |
@@ -784,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0493-reverse-pairs) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Design
 |  |
 | ------- |
@@ -1109,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1256,4 +1262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2696-the-number-of-beautiful-subsets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
