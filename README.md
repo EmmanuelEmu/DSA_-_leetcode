@@ -766,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2121-find-if-path-exists-in-graph](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -868,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1876-map-of-highest-peak](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1876-map-of-highest-peak) |
+| [2121-find-if-path-exists-in-graph](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2439-longest-cycle-in-a-graph](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -1006,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1916-find-center-of-star-graph) |
+| [2121-find-if-path-exists-in-graph](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2439-longest-cycle-in-a-graph](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -1072,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2439-longest-cycle-in-a-graph](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Eulerian Circuit
