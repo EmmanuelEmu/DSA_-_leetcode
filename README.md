@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1086-divisor-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Game Theory
 |  |
 | ------- |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3394-minimum-array-end) |
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2122-count-special-quadruplets) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2682-count-increasing-quadruplets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2682-count-increasing-quadruplets) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Number Theory
 |  |
 | ------- |
