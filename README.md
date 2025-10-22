@@ -968,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-employees-with-missing-information](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [3530-odd-and-even-transactions](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3530-odd-and-even-transactions) |
+| [3767-find-students-who-improved](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3767-find-students-who-improved) |
 ## Stack
 |  |
 | ------- |
