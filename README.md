@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1014-k-closest-points-to-origin](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1039-find-the-town-judge) |
 | [1041-available-captures-for-rook](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1041-available-captures-for-rook) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0755-reach-a-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0755-reach-a-number) |
 | [0900-reordered-power-of-2](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1086-divisor-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0807-custom-sort-string) |
 | [0900-reordered-power-of-2](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0900-reordered-power-of-2) |
 | [0924-fair-candy-swap](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0924-fair-candy-swap) |
+| [1014-k-closest-points-to-origin](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1129-longest-string-chain) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0493-reverse-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0493-reverse-pairs) |
+| [1014-k-closest-points-to-origin](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -708,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1014-k-closest-points-to-origin](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1753-path-with-minimum-effort](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -718,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0324-wiggle-sort-ii) |
+| [1014-k-closest-points-to-origin](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Sliding Window
 |  |
 | ------- |
@@ -904,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0593-valid-square) |
+| [1014-k-closest-points-to-origin](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Trie
 |  |
 | ------- |
