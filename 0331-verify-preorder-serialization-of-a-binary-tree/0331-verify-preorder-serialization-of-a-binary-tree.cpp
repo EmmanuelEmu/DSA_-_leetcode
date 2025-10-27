@@ -1,0 +1,14 @@
+class Solution {
+public:
+    bool isValidSerialization(string preorder)
+{
+    stringstream ss(preorder);
+    string node;
+    int slots = 1;
+    while(getline(ss, node, ',')){
+        if(--slots < 0) return false;
+        if(node != "#") slots += 2;
+    }
+    return slots == 0;
+}
+};
