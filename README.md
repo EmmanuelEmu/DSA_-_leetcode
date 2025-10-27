@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0443-string-compression) |
+| [0449-serialize-and-deserialize-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0516-longest-palindromic-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0567-permutation-in-string) |
@@ -828,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0449-serialize-and-deserialize-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0816-design-hashset) |
 ## Backtracking
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -1100,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -1223,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -1280,6 +1285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -1309,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0783-search-in-a-binary-search-tree) |
