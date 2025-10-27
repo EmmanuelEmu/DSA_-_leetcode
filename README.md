@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0290-word-pattern) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0389-find-the-difference](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0402-remove-k-digits) |
@@ -999,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0155-min-stack) |
 | [0321-create-maximum-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0321-create-maximum-number) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0402-remove-k-digits](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0496-next-greater-element-i) |
@@ -1213,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0257-binary-tree-paths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -1268,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0257-binary-tree-paths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0513-find-bottom-left-tree-value) |
