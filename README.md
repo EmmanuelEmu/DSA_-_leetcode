@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0787-sliding-puzzle) |
 | [0816-design-hashset](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0816-design-hashset) |
+| [0835-linked-list-components](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0835-linked-list-components) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0924-fair-candy-swap](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0924-fair-candy-swap) |
 | [0926-find-and-replace-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0926-find-and-replace-pattern) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0807-custom-sort-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0807-custom-sort-string) |
 | [0816-design-hashset](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0816-design-hashset) |
+| [0835-linked-list-components](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0835-linked-list-components) |
 | [0900-reordered-power-of-2](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0900-reordered-power-of-2) |
 | [0924-fair-candy-swap](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0924-fair-candy-swap) |
 | [0926-find-and-replace-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0926-find-and-replace-pattern) |
@@ -1151,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0816-design-hashset](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0816-design-hashset) |
+| [0835-linked-list-components](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0835-linked-list-components) |
 | [0908-middle-of-the-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
