@@ -909,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1073-number-of-enclaves) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -1129,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1073-number-of-enclaves](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1073-number-of-enclaves) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -1252,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2384-root-equals-sum-of-children) |
@@ -1312,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2384-root-equals-sum-of-children) |
