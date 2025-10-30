@@ -689,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -918,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2439-longest-cycle-in-a-graph](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2439-longest-cycle-in-a-graph) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Geometry
@@ -1258,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2384-root-equals-sum-of-children) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1319,6 +1322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2384-root-equals-sum-of-children) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
