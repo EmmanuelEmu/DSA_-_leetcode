@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0419-battleships-in-a-board) |
+| [0436-find-right-interval](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0463-island-perimeter) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0410-split-array-largest-sum) |
+| [0436-find-right-interval](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0368-largest-divisible-subset](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0389-find-the-difference) |
+| [0436-find-right-interval](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0436-find-right-interval) |
 | [0506-relative-ranks](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0561-array-partition) |
