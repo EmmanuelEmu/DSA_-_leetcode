@@ -1,23 +1,25 @@
 class Solution {
 public:
     vector<int> kthSmallestPrimeFraction(vector<int>& arr, int k) {
-        vector<pair<long double, pair<int, int>>> fractions;
         int n = arr.size();
-
-        for (int i = 0; i < n - 1; i++) {
-            for (int j = i + 1; j < n; j++) {
-                fractions.push_back({(long double)arr[i] / arr[j], {i, j}});
-            }
+        priority_queue<pair<double, pair<int, int>>,
+                       vector<pair<double, pair<int, int>>>,
+                       greater<pair<double, pair<int, int>>>>
+            minHeap;
+        for (int i = 1; i < n; i++) {
+            minHeap.push({(double)arr[0] / arr[i], {0, i}});
         }
-
-        auto cmp = [](pair<long double, pair<int, int>>& a,
-                      pair<long double, pair<int, int>>& b) {
-            return a.first < b.first;
-        };
-
-        sort(fractions.begin(), fractions.end(), cmp);
-
-        return {arr[fractions[k - 1].second.first],
-                arr[fractions[k - 1].second.second]};
+        while (k > 1) {
+            auto top = minHeap.top();
+            minHeap.pop();
+            int i = top.second.first;
+            int j = top.second.second;
+            if (i + 1 < j) {
+                minHeap.push({(double)arr[i + 1] / arr[j], {i + 1, j}});
+            }
+            k--;
+        }
+        return {arr[minHeap.top().second.first],
+                arr[minHeap.top().second.second]};
     }
 };
