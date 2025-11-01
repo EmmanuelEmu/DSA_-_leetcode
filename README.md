@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0735-asteroid-collision) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0658-find-k-closest-elements) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0908-middle-of-the-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1129-longest-string-chain](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1129-longest-string-chain) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0755-reach-a-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0755-reach-a-number) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -678,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0658-find-k-closest-elements) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0807-custom-sort-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0807-custom-sort-string) |
 | [0900-reordered-power-of-2](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0900-reordered-power-of-2) |
