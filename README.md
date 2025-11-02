@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0072-edit-distance) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0089-gray-code) |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0258-add-digits) |
