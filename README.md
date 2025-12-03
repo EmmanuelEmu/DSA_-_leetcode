@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1470-shuffle-the-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1470-shuffle-the-array) |
 | [1524-string-matching-in-an-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
