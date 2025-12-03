@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1929-concatenation-of-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1929-concatenation-of-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -827,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0735-asteroid-collision) |
 | [1041-available-captures-for-rook](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1041-available-captures-for-rook) |
+| [1929-concatenation-of-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1929-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
