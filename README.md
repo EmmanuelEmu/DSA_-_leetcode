@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0463-island-perimeter) |
 | [0477-total-hamming-distance](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0477-total-hamming-distance) |
+| [0485-max-consecutive-ones](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0496-next-greater-element-i) |
