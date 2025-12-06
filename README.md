@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1492-the-kth-factor-of-n](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2050-count-good-numbers](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2050-count-good-numbers) |
 | [2238-a-number-after-a-double-reversal](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -922,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2716-prime-subtraction-operation](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
