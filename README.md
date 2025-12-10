@@ -1096,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0739-daily-temperatures) |
 | [0886-score-of-parentheses](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0886-score-of-parentheses) |
+| [0897-increasing-order-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0943-sum-of-subarray-minimums](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -1214,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0832-binary-tree-pruning](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1349,6 +1351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0832-binary-tree-pruning](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1416,6 +1419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0832-binary-tree-pruning](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1444,6 +1448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0975-range-sum-of-bst) |
 ## Interactive
 |  |
