@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1651-shuffle-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1656-count-good-triplets) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1753-path-with-minimum-effort](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1755-defuse-the-bomb) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2089-maximum-matrix-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -1112,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -1133,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2227-sum-of-subarray-ranges](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2573-remove-nodes-from-linked-list) |
