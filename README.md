@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0924-fair-candy-swap](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0924-fair-candy-swap) |
 | [0926-find-and-replace-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0926-find-and-replace-pattern) |
+| [0942-di-string-match](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0942-di-string-match) |
 | [0943-sum-of-subarray-minimums](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0942-di-string-match](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0908-middle-of-the-linked-list](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [0942-di-string-match](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0942-di-string-match) |
 | [1129-longest-string-chain](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0807-custom-sort-string) |
 | [0886-score-of-parentheses](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0886-score-of-parentheses) |
 | [0926-find-and-replace-pattern](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0926-find-and-replace-pattern) |
+| [0942-di-string-match](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0942-di-string-match) |
 | [0952-word-subsets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0952-word-subsets) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
