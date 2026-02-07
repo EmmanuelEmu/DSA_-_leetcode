@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0321-create-maximum-number](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0322-coin-change) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0493-reverse-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0493-reverse-pairs) |
 | [1014-k-closest-points-to-origin](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -880,12 +882,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2682-count-increasing-quadruplets](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/2682-count-increasing-quadruplets) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Merge Sort
@@ -907,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0355-design-twitter](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0355-design-twitter) |
 | [0449-serialize-and-deserialize-bst](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/EmmanuelEmu/DSA_-_leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
